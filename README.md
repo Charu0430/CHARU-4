@@ -10,13 +10,11 @@
 - 🚀 Working towards becoming a professional developer.
 - 🎯 My goal is to improve my coding skills every day.
 
-### 🛠️ Skills & Technologies
+### 🛠️ Languages and Tools
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
 ### 📌 My Goals
 
