@@ -1,21 +1,34 @@
-# Hi 👋, I'm Charu
+<h1 align="center">Hi 👋, I'm Charu</h1>
+<h3 align="center">Aspiring Developer | Technology Enthusiast</h3>
 
-### 💻 Aspiring Developer | Tech Enthusiast
+---
 
-- 🌱 I’m currently learning programming.
-- 💻 Interested in Web Development.
-- 🎯 My goal is to become a Software Developer.
-- 📫 Contact me: chavdacharu29@gmail.com
+### 👨‍💻 About Me
 
-### 🛠️ Languages and Tools
+- 🌱 I'm currently learning programming and development.
+- 💡 Interested in technology and building projects.
+- 🚀 Working towards becoming a professional developer.
+- 🎯 My goal is to improve my coding skills every day.
+
+### 🛠️ Skills & Technologies
 
 - HTML
 - CSS
 - JavaScript
 - Python
-- Git
-- GitHub
+- Git & GitHub
 
-### 📊 My GitHub Journey
+### 📌 My Goals
 
-Thanks for visiting my profile! 😊
+- Build real-world projects.
+- Learn new programming languages.
+- Improve problem-solving skills.
+- Contribute to open-source projects.
+
+### 📫 Connect With Me
+
+- Gmail: chavdacharu29@gmail.com
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
